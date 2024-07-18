@@ -85,6 +85,73 @@ SIES College of Management Studies
 - Photoshop
 - Video Editing
 
----
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Test Engineer Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Vivek Hinge</h1>
+            <p>Software Test Engineer</p>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <section class="profile">
+                <h2>Profile</h2>
+                <p>Self-motivated Software Test Engineer with 2.5 years of experience in Manual Testing, proficient in SDLC, STLC, Agile Scrum, API Testing, and Database Management.</p>
+            </section>
+            <section class="experience">
+                <h2>Experience</h2>
+                <ul>
+                    <li>
+                        <h3>Software Test Engineer at CWD Limited</h3>
+                        <p>Projects: SoundBox 4G & 2G Id Card, B Medical Systems & Airtemp By SDG</p>
+                        <p>Responsibilities: End-to-end IoT solutions testing, embedded firmware testing, ZigBee devices testing, Android and iPhone application testing, cloud testing (Web Portal), AWS services.</p>
+                    </li>
+                </ul>
+            </section>
+            <section class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Test Planning, Test Scenarios, Test Cases</li>
+                    <li>Business Requirements, ISO Processes</li>
+                    <li>ZigBee, Z-wave, Thread, MQTT, LoRaWAN</li>
+                    <li>Minicom, WinSCP, Wireshark</li>
+                    <li>Jira, TestRail</li>
+                </ul>
+            </section>
+            <section class="education">
+                <h2>Education</h2>
+                <p>Master of Computer Applications (MCA) - SIES College of Management Studies</p>
+            </section>
+            <section class="certifications">
+                <h2>Certifications</h2>
+                <ul>
+                    <li>Cybersecurity</li>
+                    <li>Python</li>
+                    <li>IoT</li>
+                    <li>Linux</li>
+                    <li>Manual Testing</li>
+                    <li>Database Management</li>
+                    <li>Git & GitHub</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Vivek Hinge</p>
+        </div>
+    </footer>
+</body>
+</html>
+
 
 Thank you for visiting my profile!
