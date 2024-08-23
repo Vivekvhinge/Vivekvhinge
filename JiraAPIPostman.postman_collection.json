@@ -1,0 +1,72 @@
+{
+	"info": {
+		"_postman_id": "3de81804-1edf-43ce-8c6c-2a437c50684a",
+		"name": "JiraAPIPostman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32855863"
+	},
+	"item": [
+		{
+			"name": "GetInstanceInfo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://rcvacademylive.atlassion.net/rest/api/3/instance/license",
+					"protocol": "https",
+					"host": [
+						"rcvacademylive",
+						"atlassion",
+						"net"
+					],
+					"path": [
+						"rest",
+						"api",
+						"3",
+						"instance",
+						"license"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetProject",
+			"request": {
+				"auth": {
+					"type": "basic"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://rcvacademylive.atlassion.net/rest/api/3/project?maxResults=2",
+					"protocol": "https",
+					"host": [
+						"rcvacademylive",
+						"atlassion",
+						"net"
+					],
+					"path": [
+						"rest",
+						"api",
+						"3",
+						"project"
+					],
+					"query": [
+						{
+							"key": "maxResults",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
