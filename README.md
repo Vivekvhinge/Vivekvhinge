@@ -10,7 +10,7 @@
 
 ## Profile
 
-Experienced Software Test Engineer with 2.5 years of expertise in Manual Testing. Proficient in SDLC, STLC, Agile Scrum, API Testing, and Database Management. Skilled in Test Planning, Test Scenarios, Test Cases, and Business Requirements.
+Experienced Software Test Engineer with 3.5 years of expertise in Manual Testing. Proficient in SDLC, STLC, Agile Scrum, API Testing, and Database Management. Skilled in Test Planning, Test Scenarios, Test Cases, and Business Requirements.
 
 ---
 
@@ -18,6 +18,9 @@ Experienced Software Test Engineer with 2.5 years of expertise in Manual Testing
 
 ### Software Test Engineer at CWD Limited
 *Jan 2022 – Jun 2024 | Mumbai*
+
+### Software Test Engineer doing Freelance work
+*Aug 2024 – present /Mumbai
 
 #### Projects
 
